@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Algorithm_Traiding
+./Algorithm_Traiding
